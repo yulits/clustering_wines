@@ -1,1 +1,2 @@
-# clustering_wines
+# Clustering wines
+Comparing different clustering algorithm
